@@ -5,3 +5,8 @@ Hello! I am a Computer Science Engineering student interested in programming, te
 ## Skills
 
 - Currently learning C, Java, Data Structures, Git, and GitHub.
+
+
+## Interests
+
+- Interested in software development, coding, data structures, and emerging technologies.
