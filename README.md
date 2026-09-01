@@ -10,3 +10,8 @@ Hello! I am a Computer Science Engineering student interested in programming, te
 ## Interests
 
 - Interested in software development, coding, data structures, and emerging technologies.
+
+
+## Goal
+
+- My goal is to improve my programming skills and contribute to open-source projects.
