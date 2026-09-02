@@ -15,3 +15,9 @@ Hello! I am a Computer Science Engineering student interested in programming, te
 ## Goal
 
 - My goal is to improve my programming skills and contribute to open-source projects.
+
+## Projects
+
+I am currently working on improving my programming and data structures skills through practical projects.
+
+Planned Project: Build a Java-based Data Structures and Algorithms project.
